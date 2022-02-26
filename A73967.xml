@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. As the princely care and continuall vvatch, vvhich wee haue ouer the good of our louing subiects, may in part appeare, by the course which wee haue taken, for a reuiew and consideration of many of our statute lawes: ... some such new lawes may be made  ...</title>
+            <title>Proclamations. 1610-09-24</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1610</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73967</idno>
+            <idno type="STC">STC 8451</idno>
+            <idno type="STC">ESTC S124135</idno>
+            <idno type="EEBO-CITATION">99898945</idno>
+            <idno type="PROQUEST">99898945</idno>
+            <idno type="VID">150846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1984:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. As the princely care and continuall vvatch, vvhich wee haue ouer the good of our louing subiects, may in part appeare, by the course which wee haue taken, for a reuiew and consideration of many of our statute lawes: ... some such new lawes may be made  ...</title>
+                  <title>Proclamations. 1610-09-24</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno 1610.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some proclamations no longer in effect; others to be reconsidered--STC.</note>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Dated at end: ... Hampton court the 24. day of September, in the eight yeere of our reigne of Great Britaine, France and Ireland.</note>
+                  <note>Steele notation: vvhich  worne  2)foorth  pre-.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law reform --  Great Britain --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:150846:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <head>¶ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S the Princely care and continuall watch, which</hi> Wee haue ouer the good of Our louing Subiects, may in part ap<g ref="char:EOLhyphen"/>peare, by the courſe which Wee haue taken, for a reuiew and conſi<g ref="char:EOLhyphen"/>deration of many of our Statute Lawes: wherein Wee were de<g ref="char:EOLhyphen"/>ſirous, that in ſtead of the multiplicitie of the ſame, and doubtfulnes that may ariſe in the interpretation of them, (whereof ſome are worne out with time, ſome vnfit for execution by the change of times; and of others, ſome branches onely ſtanding in force, and the reſt repealed) ſome ſuch new Lawes may be made, as ſhall be moſt neceſſary for the good of Vs, and our people, and the ſame more cleare and plaine to their vnderuanding whom it may concerne, then they haue bene or are in ſome caſes; For the better preparation wherof (being a worke of ſo great labour) We haue already cauſed our Priuie Councel, to make choice of ſome diſcreet perſons learned in the Law, not onely to make collections of them as they ſtand now in force, but to digeſt them into ſome ſuch orderly Method (imparting the ſame alſo to our learned Councell) as Our Iudges may peruſe their labours, before they bee preſented to the Parliament, where Our meaning is, to leaue them to ſuch conſideration and reſolution, as may produce the beſt effects for the publique good, which is the only ſcope of Our intention: So although Wee know that by the conſtitution of the frame &amp; policie of this kingdome, Royall Proclamations and Ordi<g ref="char:EOLhyphen"/>nances are not of equal force, nor in the like degrees with our Lawes; Yet hauing made ſome obſeruation, That the number of Proclamations is great, both of former times, and of Our owne, and that in diuers of them conteyning many politique and neceſſary Commaun<g ref="char:EOLhyphen"/>dements and Admonitions, (publiſhed at ſeuerall times, according to the varietie of acci<g ref="char:EOLhyphen"/>dents, and tending onely to the good of Our people) there are ſome remayning, where<g ref="char:EOLhyphen"/>in Our directions were intended to bee but Temporary, ſome others ſet foorth ſo neere<g ref="char:EOLhyphen"/>ly one vpon another, (though to one and the ſame ende) ſome others that are not ſo cleere<g ref="char:EOLhyphen"/>ly penned to the capacitie of the vulgar ſort, but doe, either carry ſome ſhewe of Ambiguitie or contradiction, or may at leaſt ſerue for a colour to the ill diſpoſed, to neglect the ſame, and may giue occaſion to ſome others well affected, to omit the performance, onely by miſ<g ref="char:EOLhyphen"/>vnderſtanding of Our royall pleaſure therein. And where Wee haue alſo helde it an of<g ref="char:EOLhyphen"/>fice appertayning to Vs, and as a power vnſeparably annexed to our Crowne and Royall Authoritie, and ſuch as our Progenitors, in the happieſt times haue vſed and exerciſed, to ap<g ref="char:EOLhyphen"/>ply ſpeedie, proper, and conuenient remedies (out of our Royall power) in all caſes of ſodaine and extraordinary accidents, and in matters ſo variable and irregular in their nature, as are not prouided for by Law, nor can fitly fall vnder the certaine rule of a Law; and yet may greatly import either the preſeruation and good of Vs and our people, or the publique honour and ornament of Our Kingdome: Foraſmuch as Wee haue alſo bene giuen to vnderſtand, that there is obſeruation made, of ſome more generall neglect in obeying Our Proclamati<g ref="char:EOLhyphen"/>ons, then is fit to be tolerated, We haue likewiſe held it fit, not only to giue order, for a reuiew of ſuch Proclamations as are paſſed formerly, but by the deliberate aduice of Our Priuie Councell, and for the reaſons that are before mentioned, to determine ſuch of them, as are not now thought neceſſary, and conuenient for the publicke weale, and to alter and reforme others, where Wee found cauſe. Hereby requiring and commanding all our louing Subiects, more duely and readily hereafter to apply their obedience to the reſt, which Wee doe leaue now in force, or ſhall hereafter ſet foorth, according to the moſt neceſſary and important occaſions of this Eſtate.</p>
+            <p>
+               <pb facs="tcp:150846:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 44 -->
+               <pb facs="tcp:150846:3"/>
+               <!-- PDF PAGE 45 -->
+And therefore whereas in the firſt yeere of our Raigne, a Proclamation was ſet foorth touching the prices of Victuals within the Verge; And the like Proclamation was ſet foorth the tenth of Iuly in the ſecond yere of our Raigne; And that we are giuen to vnderſtand, that ſuch abuſes may be for the moſt part reformed, and the Offenders puniſhed by the Law; Wee doe declare both the ſaid Proclamations to be determined.</p>
+            <p>And whereas a Proclamation was ſet foorth, bearing date the eleueuth day of Ianuarie in the firſt yeere of Our Reigne, concerning the choiſe of Knights and Burgeſſes of the Par<g ref="char:EOLhyphen"/>liament, wherein were contained diuers politique and neceſſary directions and admonitions, for caution and reſpect to be vſed in the ſaid Elections; Foraſmuch as it did referre properly to the ſummons of the Parliament now paſt long ſince; Wee doe by theſe preſents declare the ſaid Proclamation to be determined.</p>
+            <p>And wheras a Proclamation was ſet forth by Vs, bearing date the eighteenth day of Iune in the ſecond yeere of our Reigne, for the true winding and folding of woolles; Foraſmuch as the abuſes (therein mentioned) are partly holpen by the Law, as it now ſtandeth, and if any thing be defectiue, it is more fit for a remedie by Acte of Parliament; We doe by theſe preſents determine the ſame.</p>
+            <p>And whereas there hath bin ſet forth by vs (taking light from the example of our deare Siſter Elizabeth,) foure ſeuerall Proclamations touching buildings and Inmates in and a<g ref="char:EOLhyphen"/>bout the Citie of London, greatly importing not onely the health, good eſtate, ſafetie, and beautie of the ſaid Citie, but likewiſe by an infallible conſequence, the vniuerſall weale and pre<g ref="char:EOLhyphen"/>ſeruation of our Perſon, Court, and Kingdome: Wee haue thought fit for the better execu<g ref="char:EOLhyphen"/>tion of the good therby intended, to draw all the ſaid Proclamations into one briefe and cleare forme, which our Princely Reſolution is to haue hereafter ſtraitly obſerued, although Wee could wiſh that ſome things in that behalfe might be further conſidered by our Parliament, ſeeing the matter hath beene ſo often moued, and neuer effected. And whereas We haue alſo ſet foorth diuers Proclamations forbidding the making of Starch, wherein there may ſeeme to be ſome ambiguitie; We haue thought fit to determine all the ſaide Proclamations in that behalfe, minding to publiſh one other for the repreſſing of ſo great an enormitie.</p>
+            <p>We haue alſo taken into our Princely conſideration, the neceſſity of taking ſome politique or<g ref="char:EOLhyphen"/>der againſt exceſſe of Apparel, for the inlarging the vent of Cloth, for furniſhing of the Realme with ſeruiceable Armour, for ſtay of tranſporting of Our Treaſure into forraine parts, a<g ref="char:EOLhyphen"/>gainſt ſelling of Ships, and for reſtraint and preuention of Depredations at Sea; Some of which points are not at this time prouided for, neither by Law nor Proclamation, and ſome other are not ſo ſufficiently and ſeuerely prouided for, as the greatneſſe of the miſchiefe requi<g ref="char:EOLhyphen"/>reth. But becauſe we are willing to make triall, whether the remedies for theſe great enor<g ref="char:EOLunhyphen"/>mities may not be reduced vnder ſome regular forme of Law, Wee haue forborne for the pre<g ref="char:EOLhyphen"/>ſent to giue order in them by way of Proclamation.</p>
+            <closer>
+               <dateline>Giuen at Our Honour of Hampton Court <date>the 24. day of September, in the eight yeere of our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Jmprinted at London by Robert Barker, Printer to the Kings moſt <hi>Excellent Maieſtie. ANNO 1610.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
